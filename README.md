@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**Kaua-Rodrigues-Parcerao/Kaua-Rodrigues-Parcerao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+import Desenvolvedor from "Kaua Rodrigues Parcerao";
 
-Here are some ideas to get you started:
+class SobreMim extends Desenvolvedor {
+  nome = "GKaua Rodrigues Parcerao";
+  area = "Estudante do Senai";
+  
+  contato = "kauarp.rodrigues@gmail.com";
+  }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends Desenvolvedor {
+  linguagens = ["Python, C#"];
+  fraquezas = ["Lembrar de deslogar minhas contas de computadores públicos"];
+}
+```
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C#/C#-original.svg">
+</div>
+
+##
