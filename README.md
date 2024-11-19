@@ -3,7 +3,7 @@
 import Desenvolvedor from "Kaua Rodrigues Parcerao";
 
 class SobreMim extends Desenvolvedor {
-  nome = "GKaua Rodrigues Parcerao";
+  nome = "Kaua Rodrigues Parcerao";
   area = "Estudante do Senai";
   
   contato = "kauarp.rodrigues@gmail.com";
