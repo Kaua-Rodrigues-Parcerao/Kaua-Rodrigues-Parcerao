@@ -11,7 +11,6 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens = ["Python, C#"];
-  fraquezas = ["Lembrar de deslogar minhas contas de computadores públicos"];
 }
 ```
 
