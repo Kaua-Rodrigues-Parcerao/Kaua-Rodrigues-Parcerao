@@ -4,8 +4,9 @@ import Desenvolvedor from "Kaua Rodrigues Parcerao";
 
 class SobreMim extends Desenvolvedor {
   nome = "Kaua Rodrigues Parcerao";
-  area = "Estudante do Senai";
-  
+  area = "Desenvolvedor de sistemas";
+  curso = "Aluno de Desenvolvimento - Senai Textil"
+
   contato = "kauarp.rodrigues@gmail.com";
   }
 
